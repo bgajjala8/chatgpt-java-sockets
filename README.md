@@ -1,4 +1,4 @@
-# GPT-Conceived-Msg-Sys
+# chatgpt-java-sockets
 
 This code was written by ChatGPT as an experiment that I ran. The article can be found at:
 - [Medium Article](https://medium.com/@bharath.gajjala8/exploring-the-potential-of-chat-gpt-a-journey-into-prototyping-a-distributed-system-58839b9794d5)
